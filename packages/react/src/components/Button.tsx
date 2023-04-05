@@ -28,10 +28,6 @@ export const Button = styled('button', {
     cursor: 'not-allowed',
   },
 
-  '&:disabled': {
-    cursor: 'not-allowed',
-  },
-
   variants: {
     variant: {
       primary: {
@@ -95,3 +91,5 @@ export const Button = styled('button', {
 export interface ButtonProps extends ComponentProps<typeof Button> {
   as?: ElementType
 }
+
+Button.displayName = 'Button'
