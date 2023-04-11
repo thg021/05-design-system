@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@thgsdev-ui/docs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -28,10 +28,10 @@
     "vite": "^3.1.4"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@thgsdev-ui/eslint-config": "*",
+    "@thgsdev-ui/react": "*",
+    "@thgsdev-ui/tokens": "*",
+    "@thgsdev-ui/ts-config": "*",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
     "react": "^18.2.0",
