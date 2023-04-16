@@ -1,5 +1,17 @@
 # @thgsdev-ui/react
 
+## 4.0.2
+
+### Patch Changes
+
+- Alteracao da extensao do arquivo tokens para js
+
+## 4.0.1
+
+### Patch Changes
+
+- Adicioando tipagem size para o componente inputText
+
 ## 4.0.0
 
 ### Major Changes
