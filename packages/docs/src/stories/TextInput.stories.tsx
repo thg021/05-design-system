@@ -10,6 +10,14 @@ export default {
   // O objetivo é trazer o input para dentro da nossa box
   // todos elementos criados com o stiches tem a prop css
   // o decorator se aplica em todos os elementos do story
+  argTypes: {
+    size: {
+      options: ['sm', 'md'],
+      control: {
+        type: 'inline-radio',
+      },
+    },
+  },
   decorators: [
     (Story) => {
       return (
