@@ -1,5 +1,11 @@
 # @thgsdev-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- alteracao da extensao do build main para js
+
 ## 3.0.0
 
 ### Major Changes
